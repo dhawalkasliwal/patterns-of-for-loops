@@ -1,2 +1,2 @@
 # patterns-of-for-loops
-pyramid like paatterns
+pyramid like patterns
